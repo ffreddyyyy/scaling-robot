@@ -2,5 +2,5 @@ pandas
 sklearn
 numpy
 matplotlib
-ipywidgets
+ipywidgets==3.6.5
 voila
